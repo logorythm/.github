@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="https://logorythm.io/icon-512.png" alt="Logorythm" width="96" />
+<img width="120" height="120" alt="Logorythm" src="https://github.com/user-attachments/assets/534be05f-7e24-4791-99c5-2d3c3bab9f2f" />
 
-# Logorythm
+<h1>Logorythm</h1>
 
-**Architecture intelligence for engineering teams**
-
-A service map from your code, without runtime tracing.
+<h3>See your real architecture evolving.</h3>
 
 <br />
 
-[Website](https://logorythm.io) · [Try for 14 days](https://dashboard.logorythm.io/login) · [LinkedIn](https://www.linkedin.com/company/logorythm-io)
+[Website](https://logorythm.io) · [Try for free](https://dashboard.logorythm.io/login) · [LinkedIn](https://www.linkedin.com/company/logorythm-io) · [X](https://x.com/logorythmio) · [YouTube](https://www.youtube.com/@Logorythm)
 
 <br />
 
 <img alt="Static analysis only" src="https://img.shields.io/badge/Static%20analysis-only-0ea5e9?style=for-the-badge&labelColor=0f172a" />
-<img alt="NO Agents" src="https://img.shields.io/badge/NO-Agents-334155?style=for-the-badge&labelColor=0f172a" />
+<img alt="NO Tracing" src="https://img.shields.io/badge/NO-Tracing-334155?style=for-the-badge&labelColor=0f172a" />
 <img alt="NO Setup" src="https://img.shields.io/badge/NO-Setup-334155?style=for-the-badge&labelColor=0f172a" />
 <img alt="NO Instrumentation" src="https://img.shields.io/badge/NO-Instrumentation-334155?style=for-the-badge&labelColor=0f172a" />
 
@@ -23,13 +21,15 @@ A service map from your code, without runtime tracing.
 
 <br />
 
-<img src="https://logorythm.io/og-image.png" alt="Logorythm: Stop hunting callers in code and logs" width="100%" />
+<img width="1200" height="630" alt="Logorythm: Architecture Intelligence for Engineering Teams" src="https://github.com/user-attachments/assets/f6fd6b1f-de1f-41af-adb6-93cb23cd5070" />
 
 ## What we build
 
-Logorythm is architecture intelligence for engineering teams: a service map from your code, without runtime tracing.
+Logorythm is architecture intelligence for engineering teams, from static analysis: a service map from your code.
 
-Stop hunting callers in code and logs. See who talks to whom.
+We turn your repositories into a service map. Insights make Conway's Law visible: where team boundaries and the real architecture diverge, where coupling becomes a bottleneck, and how the system evolves as the team ships.
+
+Stop hunting callers in code and logs manually.
 
 ## How it works
 
@@ -54,8 +54,8 @@ That is how teams watch architecture evolve: not vanity dashboards, but whether 
 
 | Pain today | With Logorythm |
 | --- | --- |
-| Hunting callers across repos and logs | A map of who talks to whom |
-| Architecture that lives in people's heads | A shared service map for the team |
+| Hunting callers across repos and logs | A service map from your code |
+| Architecture that lives in people's heads | A service map the whole team can open |
 | Microservices that still behave like a monolith | Clustering and coupling called out early |
 | Org chart vs real service boundaries | Conway patterns made visible |
 | Runtime tracing and agents in production | Static analysis only |
@@ -71,9 +71,13 @@ That is how teams watch architecture evolve: not vanity dashboards, but whether 
 <p align="center">
   <a href="https://logorythm.io"><strong>logorythm.io</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://dashboard.logorythm.io/login">Start free trial</a>
+  <a href="https://dashboard.logorythm.io/login">Try for free</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/company/logorythm-io">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/logorythmio">X</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@Logorythm">YouTube</a>
 </p>
 
-<!-- END: GitHub profile/README.md -->
+<!-- END: paste into GitHub profile/README.md -->
